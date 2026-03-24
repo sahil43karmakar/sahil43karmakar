@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech Student | 💻 Aspiring Full Stack Developer  <br>🚀 Learning MERN Stack & Data Structures  <br>📚 Focused on improving problem-solving & building real-world projects  <br>
+🎓 B.Tech Student |  MERN Stack & Data Structures  <br>📚 Focused on improving problem-solving & building real-world projects  <br>
 
 
 ## 🌐 Socials:
